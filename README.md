@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Dewinson Cruz 👋</h1>
 <p align="center">
   <b>Desarrollador Full Stack · Angular · TypeScript · NestJS</b><br>
-  República Dominicana 🇩🇴
+  República Dominicana 🇩🇴<br><br>
+  <a href="https://nuevo-porfolio-git-main-dewinson-cruzs-projects.vercel.app"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"></a>
 </p>
 
 ---
@@ -45,5 +46,5 @@
 
 ### Contacto
 
-<!-- Añade aquí tu LinkedIn, correo o web cuando la tengas activa -->
-- 🌐 Portafolio: próximamente
+<!-- Añade aquí tu LinkedIn o correo -->
+- 🌐 Portafolio: [nuevo-porfolio.vercel.app](https://nuevo-porfolio-git-main-dewinson-cruzs-projects.vercel.app)
