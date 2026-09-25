@@ -47,4 +47,4 @@
 ### Contacto
 
 <!-- Añade aquí tu LinkedIn o correo -->
-- 🌐 Portafolio: [nuevo-porfolio.vercel.app](https://nuevo-porfolio-git-main-dewinson-cruzs-projects.vercel.app)
+- 🌐 Portafolio: [Ver mi portafolio](https://nuevo-porfolio-git-main-dewinson-cruzs-projects.vercel.app)
