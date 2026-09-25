@@ -37,16 +37,6 @@
 | [**test-biometrico**](https://github.com/dewinsonbusiness/test-biometrico) | Reconocimiento facial en el navegador | TensorFlow.js · face-api |
 | [**Optimus UI**](https://github.com/openng-org/optimus-ui) | Fork comunitario y open source de PrimeNG | Angular |
 
-### Estadísticas
-
-<p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dewinsonbusiness&theme=github" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dewinsonbusiness&theme=github" alt="Lenguajes más usados">
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=dewinsonbusiness&hide_border=true" alt="Racha de contribuciones">
-</p>
-
 ### Contacto
 
 <!-- Añade aquí tu LinkedIn o correo -->
