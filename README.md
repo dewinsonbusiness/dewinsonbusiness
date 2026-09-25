@@ -40,8 +40,11 @@
 ### Estadísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dewinsonbusiness&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewinsonbusiness&layout=compact&hide_border=true&exclude_repo=optimus-ui" alt="Lenguajes más usados">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dewinsonbusiness&theme=github" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dewinsonbusiness&theme=github" alt="Lenguajes más usados">
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=dewinsonbusiness&hide_border=true" alt="Racha de contribuciones">
 </p>
 
 ### Contacto
