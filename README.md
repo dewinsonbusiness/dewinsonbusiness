@@ -11,7 +11,6 @@
 
 - Construyo aplicaciones web con **Angular** en el frontend y **NestJS** en el backend.
 - Me interesan el rendimiento, las interfaces limpias y el open source. Colaboro en [**Optimus UI**](https://github.com/openng-org/optimus-ui), el fork comunitario de PrimeNG con licencia MIT.
-- Ahora mismo trabajo en **Envia-RD**, una API de envíos para República Dominicana.
 
 ### Stack
 
