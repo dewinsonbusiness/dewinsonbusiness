@@ -30,11 +30,8 @@
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**JSON-VIEWER**](https://github.com/dewinsonbusiness/JSON-VIEWER) | App web para formatear, validar y explorar JSON | TypeScript |
 | [**Envia-RD**](https://github.com/dewinsonbusiness/Envia-RD) | API de envíos para República Dominicana | NestJS · TypeScript |
-| [**MODERN-WEBSITE**](https://github.com/dewinsonbusiness/MODERN-WEBSITE) | Sitio web moderno y rápido | Astro |
-| [**test-biometrico**](https://github.com/dewinsonbusiness/test-biometrico) | Reconocimiento facial en el navegador | TensorFlow.js · face-api |
-| [**Optimus UI**](https://github.com/openng-org/optimus-ui) | Fork comunitario y open source de PrimeNG | Angular |
+| [**angular-editor**](https://github.com/dewinsonbusiness/angular-editor) | Editor de código ultraligero para proyectos Angular, con LSP y panel de serve | Tauri · TypeScript · CodeMirror |
 
 ### Contacto
 
